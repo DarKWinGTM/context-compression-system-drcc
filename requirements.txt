@@ -1,0 +1,12 @@
+# Context Compression System Dependencies
+
+# Testing
+pytest>=7.0.0
+
+# No additional dependencies required
+# Uses Python standard library:
+# - re (regex)
+# - collections (Counter)
+# - pathlib (Path)
+# - json (config loading)
+# - argparse (CLI)

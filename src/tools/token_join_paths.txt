@@ -1,0 +1,3 @@
+outputs/layer4_phrases.txt
+# comment
+outputs/layer6_markdown.txt

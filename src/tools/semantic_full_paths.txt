@@ -1,0 +1,15 @@
+outputs/layer0_pure_context.txt
+outputs/layer0_usage_instructions.txt
+outputs/layer1_thai_removed.txt
+outputs/layer2_diagrams_removed.txt
+outputs/layer3_combined_compression.txt
+outputs/layer3_templates.txt
+outputs/layer4_markdown.txt
+outputs/layer4_phrases.txt
+outputs/layer5_5_token_join.txt
+outputs/layer5_FINAL.txt
+outputs/layer5_words.txt
+outputs/layer6_markdown.txt
+outputs/layer7_FINAL.txt
+outputs/DEPLOYABLE_CLAUDE.md
+/home/node/workplace/AWCLOUD/TEMPLATE/CONTENT/CONTEXT.TEMPLATE.md
