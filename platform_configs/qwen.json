@@ -1,0 +1,8 @@
+{
+  "name": "Qwen",
+  "target_file": "QWEN.md",
+  "output_dir": "/home/node/workplace/AWCLOUD/CLAUDE/context-compression-system/outputs",
+  "header_style": "qwen",
+  "compression_default": "aggressive",
+  "description": "Qwen AI context file"
+}

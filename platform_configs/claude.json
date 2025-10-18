@@ -1,0 +1,8 @@
+{
+  "name": "Claude Code",
+  "target_file": "CLAUDE.md",
+  "output_dir": "/home/node/workplace/AWCLOUD/CLAUDE/context-compression-system/outputs",
+  "header_style": "claude",
+  "compression_default": "aggressive",
+  "description": "Claude Code official CLI context file"
+}
